@@ -1,0 +1,8 @@
+COMENTE UNAS LINEAS EN EL ARCHIVO: FIREBASE.APP.MODULE.D.TS
+TIRABA EL SIGUIENTE ERROR: ERROR in node_modules/@angular/fire/firebase.app.module.d.ts(2,42): error TS2305: 
+	Module '"C:/Users/Waldo/Ionic/ChatAula/node_modules/firebase/index"' has no exported member 'functions'.
+
+-LOGIN LISTO!
+-PASAR LO DE LOGIN A LA APP QUE SERA LA APP DE CONSORCIO
+
+para llegar aca necesite el npm install, npm install angular/fire y mucha paciencia

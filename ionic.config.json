@@ -1,0 +1,7 @@
+{
+  "name": "ChatAula",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
